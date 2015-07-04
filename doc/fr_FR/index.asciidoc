@@ -1,0 +1,16 @@
+== Tv LG 2012+
+
+=== Description
+Plugin pour commander les TVs Lgs connectées post 2012
+
+'''
+=== Configuration
+include::configuration.asciidoc[]
+
+'''
+=== FAQ
+include::faq.asciidoc[]
+
+'''
+=== Changelog
+include::changelog.asciidoc[]

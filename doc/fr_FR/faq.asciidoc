@@ -1,0 +1,13 @@
+[panel,primary]
+.Je n'arrive pas à allumer la télévision lorsqu'elle est en veille
+--
+C'est normal, une fois la télévision en veille, les fonctions réseaux ne sont plus disponibles. Les commandes via la laison ethernet ne fonctionnent donc pas.
+--
+.Je ne connais pas la clé d'appairage
+--
+Pas grave . Mettez 0 dedans . Rajouter des commandes. Sauvez. La tv vous affichera gentiment son code que vous pourrez reporter dans le champ. et sauver
+--
+.J'ai un tv de 1984 est ce que ce plugin va marcher
+--
+Non ce plugin ne marche que les TVs à partir de 2012.
+--

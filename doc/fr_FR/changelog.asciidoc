@@ -1,0 +1,38 @@
+==== 12/02/2015
+
+- V0.1: Première version du plugin
+
+==== 13/02/2015
+
+- V0.2: rajout de blocs de commandes
+
+==== 14/02/2015
+
+- V0.3: rajout de boutons images
+
+==== 14/02/2015
+
+- V0.4 : rajout d'un thème noir et blanc
+
+==== 14/02/2015
+
+- V0.5 : rajout d'un thème noir et blanc en mobile
+
+==== 15/02/2015
+
+- V0.6 : rajout du bouton réglage dans page config
+       rajout d'une page avec icone pour voir les équippements
+       rajout d'une fonction pour gérer les paramètres visuels perso
+
+==== 15/02/2015
+
+- V0.7 : correction mode design
+
+==== 15/02/2015
+
+- V0.8 : rajout d'un pas pour le volume
+
+
+==== 15/02/2015
+
+- V0.81 : rajout d'un mode mobile utilisable en mode télécommande

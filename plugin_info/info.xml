@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+    <id>lgTV</id>
+    <name>TV LG</name>
+    <description>Plugin pour commander les TVs LG connectées (année>2012)</description>
+    <icon>fa techno-tv	</icon>
+    <licence>AGPL</licence>
+    <author>Ludovic SARAKHA</author>
+    <installation>Aucune</installation>
+    <require>1.145</require>
+    <version>0.81</version>
+    <category>multimedia</category>
+</info>
+

@@ -1,0 +1,20 @@
+Le plugin TV LG permet de piloter des TV connectées Lgs. 
+
+Une fois installé à partir du Market, puis une fois activé, on accède à la page du plugin Tv LG dans le menu Plugin->Multimédia.
+
+A gauche, la liste des télécommandes/TV déjà créés (vierge lors de la première installation), et au centre l'onglet Général & liste des TV/Télécommandes LG.
+
+Pour créer une nouvelle télécommande, il suffit de cliquer sur "Ajouter un éqquippement" dans le menu de gauche. Il est possible de créer plusieurs Tv.
+
+L'onglet Général permet de donner un nom, activer et rendre visible la télécommande, puis configurer cette dernière.
+
+Le plus important est de configurer l'adresse IP du téléviseur, ainsi que la clé d'appairage. Si vous ne la connaissez pas. Mettez 0 dedans. 
+
+A l'éxécution d'une commande quelconque la TV vous affichera son code qu'il faudra prendre le soin de reporter 
+
+Pour rajouter des commandes prédéfinies vous pouvez cocher un des groupes et cliquer sur sauver.
+
+Les commandes apparaitront. Vous pouvez cocher plusieurs groupes. Les groupes ont une organisation des boutons assez compact et intuitive.
+
+(la liste de toutes les commandes disponibles a été crééé. Donc inutile dans demander une autre , LG ne le permet pas
+
