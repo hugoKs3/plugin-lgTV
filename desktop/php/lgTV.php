@@ -84,14 +84,11 @@ $eqLogics = eqLogic::byType('lgTV');
                     </div>
                 </div>
                 <div class="form-group">
-                    <label class="col-lg-2 control-label" >{{Activer}}</label>
-                    <div class="col-lg-1">
-                        <input type="checkbox" class="eqLogicAttr" data-l1key="isEnable" checked/>
-                    </div>
-                    <label class="col-lg-2 control-label" >{{Visible}}</label>
-                    <div class="col-lg-1">
-                        <input type="checkbox" class="eqLogicAttr" data-l1key="isVisible" checked/>
-                    </div>
+                <label class="col-sm-2 control-label" ></label>
+                <div class="col-sm-9">
+                 <input type="checkbox" class="eqLogicAttr bootstrapSwitch" data-label-text="{{Activer}}" data-l1key="isEnable" checked/>
+                  <input type="checkbox" class="eqLogicAttr bootstrapSwitch" data-label-text="{{Visible}}" data-l1key="isVisible" checked/>
+                </div>
                 </div>
                 <div class="form-group">
                     <label class="col-lg-2 control-label">{{Adresse IP}}</label>
@@ -105,26 +102,18 @@ $eqLogics = eqLogic::byType('lgTV');
                         <input type="text" class="eqLogicAttr form-control" data-l1key="configuration" data-l2key="key" placeholder="{{Clé d'appairage}}"/>
                     </div>
                 </div>
-				<div class="form-group">				
-                    <label class="col-lg-2 control-label">{{Affichage}}</label>
-					<div class="col-lg-8">
-						<label class="checkbox-inline">
-                            <input type="checkbox" class="eqLogicAttr" data-l1key="configuration" data-l2key="has_basic" /> Base
-                        </label>
-						<label class="checkbox-inline">
-                            <input type="checkbox" class="eqLogicAttr" data-l1key="configuration" data-l2key="has_num" /> Numérique
-                        </label>
-						<label class="checkbox-inline">
-                            <input type="checkbox" class="eqLogicAttr" data-l1key="configuration" data-l2key="has_magneto" /> Magnéto
-                        </label>
-						<label class="checkbox-inline">
-                            <input type="checkbox" class="eqLogicAttr" data-l1key="configuration" data-l2key="has_color" /> Couleur
-                        </label>
-						<label class="checkbox-inline">
-                            <input type="checkbox" class="eqLogicAttr" data-l1key="configuration" data-l2key="has_divers" /> Divers (Déconseillé nombreuses commandes annexes)
-                        </label>
+                  <div class="form-group">				
+                    <label class="col-sm-2 control-label" >{{Affichage}}</label>
+                    <div class="col-sm-9">
+                        <input type="checkbox" class="eqLogicAttr bootstrapSwitch" data-label-text="{{Base}}" data-l1key="configuration" data-l2key="has_basic" checked/>
+                        <input type="checkbox" class="eqLogicAttr bootstrapSwitch" data-label-text="{{Numérique}}" data-l1key="configuration" data-l2key="has_num" checked/>
+                        <input type="checkbox" class="eqLogicAttr bootstrapSwitch" data-label-text="{{Magnéto}}" data-l1key="configuration" data-l2key="has_magneto" checked/>
+                        <input type="checkbox" class="eqLogicAttr bootstrapSwitch" data-label-text="{{Couleur}}" data-l1key="configuration" data-l2key="has_color" checked/>
+                         <input type="checkbox" class="eqLogicAttr bootstrapSwitch" data-label-text="{{Divers}}" data-l1key="configuration" data-l2key="has_divers" checked/>
+                        
+                    </div>
+                          
 					</div>
-                </div>
 				<div class="form-group">
                     <label class="col-sm-2 control-label">{{Couleur des commandes}}</label>
                         <div class="col-sm-3">
