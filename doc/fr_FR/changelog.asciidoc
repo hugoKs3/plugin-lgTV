@@ -21,8 +21,8 @@
 ==== 15/02/2015
 
 - V0.6 : rajout du bouton réglage dans page config
-       rajout d'une page avec icone pour voir les équippements
-       rajout d'une fonction pour gérer les paramètres visuels perso
+       rajout d'une page avec icone pour voir les équipements
+       rajout d'une fonction pour gérer les paramètres visuels personnels
 
 ==== 15/02/2015
 
