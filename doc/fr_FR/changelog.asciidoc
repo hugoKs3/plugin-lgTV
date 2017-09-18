@@ -1,3 +1,5 @@
+Changelog détaillé : https://github.com/jeedom/plugin-lgTV/commits/stable
+
 ==== 12/02/2015
 
 - V0.1: Première version du plugin
