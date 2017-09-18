@@ -1,11 +1,11 @@
 {
-	"id" : "denonavr",
-	"name" : "Denon",
-	"description" : "Plugin permettant de piloter les amplificateurs Denon",
+	"id" : "lgTV",
+	"name" : "TV LG",
+	"description" : "Plugin pour commander les TVs LG connectées (année>2012)",
 	"licence" : "AGPL",
-	"author" : "Loïc",
+	"author" : "Ludovic SARAKHA",
 	"require" : "3.0",
 	"category" : "multimedia",
-	"changelog" : "https://github.com/jeedom/plugin-denonavr/blob/stable/doc/#language#/changelog.asciidoc",
-	"documentation" : "https://github.com/jeedom/plugin-denonavr/blob/stable/doc/#language#/index.asciidoc"
+	"changelog" : "https://github.com/jeedom/plugin-lgTV/blob/stable/doc/#language#/changelog.asciidoc",
+	"documentation" : "https://github.com/jeedom/plugin-lgTV/blob/stable/doc/#language#/index.asciidoc"
 }
